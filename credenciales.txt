@@ -1,0 +1,2 @@
+user = mern_user
+pass = GDmycnP4N4tzhTEL
